@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Walid Rabie and I'm Frontend Developer, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Walid Rabie and I'm Frontend Developer, from Egypt,</h2>
+<p><strong>as apassionate Frontend Developer with 1 year of experience,I specialized in crafting engaging user experiences
+ throught clean,efficient code,My joureny in the tech industery has equipped me with a solid foundation in HTML ,
+ CSS , JS and popular React.Js framework and Next.js , Typescript, and Tailwind Have contributed to several
+ projects that have improved user interface and streamlined Client-Side functionalities and always seek to develop
+ and enhance my skills to take on new challenges.</strong></p>
 
 ###
 
