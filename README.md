@@ -40,10 +40,10 @@
 <div align="left">
  <h3> Tools:<h3/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="50" alt="openai logo"  />
+  <img src="https://commons.wikimedia.org/wiki/File:ChatGPT-Logo.svg" height="50" alt="openai logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" height="50" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prompt/prompt-original.svg" height="50" alt="prompt logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg" height="50" alt="visualstudiocode logo"  />
+  <img src="https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg" height="50" alt="visualstudiocode logo"  />
 </div>
 
 
