@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Walid Rabie and I'm Frontend Developer, from Egypt,</h2>
-<p><strong>as apassionate Frontend Developer with 1 year of experience,I specialized in crafting engaging user experiences
+<h2 align="left">Hi 👋! My name is Walid Rabie, Twork as a Frontend Developer</h2>
+<p><strong>as a passionate Frontend Developer with 1 year of experience,I specialized in crafting engaging user experiences
  throught clean,efficient code,My joureny in the tech industery has equipped me with a solid foundation in HTML ,
  CSS , JS and popular React.Js framework and Next.js , Typescript, and Tailwind Have contributed to several
  projects that have improved user interface and streamlined Client-Side functionalities and always seek to develop
@@ -30,6 +30,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
